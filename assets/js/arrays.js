@@ -15,6 +15,8 @@ const coords = [
   [10.5, 15.4]
 ];
 
+console.log(coords[0][0]);
+
 // const mixedArr = [true, "stefano", 40, {}]; // AIUTO! array ingestibile, non createlo così.
 
 const secondStudent = students[1]; // Dario
